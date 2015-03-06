@@ -1,2 +1,3 @@
 # bilmok-slides
-BILMOK slides
+
+CTF presentation for BILMOK.
